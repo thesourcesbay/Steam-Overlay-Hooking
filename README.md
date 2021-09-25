@@ -1,3 +1,15 @@
+# BattlEye-Handler-BYPASS
+c++ Handler for bypass battleye in 5 seconds
+
+# Informations
+**Developer:** *Unkn0wnH4ck3r*
+
+**Submitted by:** *Unkn0wnH4ck3r*
+
+
+
+
+
 # steam game overlay (GameOverlayUI.exe) hook example⚡
 
 ## vgui2.dll hook example
